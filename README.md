@@ -243,11 +243,11 @@ body {
 <body>
 
 <div class="topnav">
-  <a href="https://annaavona.finalreport.github.io/exploringlifeandworksofgreatartistsfrombologna.github.io/">Home</a>
-  <a href="https://annaavona.finalreport.github.io/luciodallaprincipal/">Lucio Dalla</a>
-  <a href="https://annaavona.finalreport.github.io/raffaellacarra/">Raffaella Carra</a>
-  <a href="https://annaavona.finalreport.github.io/cesarecremonini/">Cesare Cremonini</a>
-  <a href="https://annaavona.finalreport.github.io/reportfinale-/">Final Report</a>
+  <a href="https://annaavona99/home/">Home</a>
+  <a class="active" href="https://annaavona.first.github.io/Lucio-Dalla/">Lucio Dalla</a>
+  <a href="https://annaavona.second.github.io/Raffaella-Carra/">Raffaella Carrà</a>
+  <a href="https://annaavona-third.io/Cesare-Cremonini/">Cesare Cremonini</a>
+  <a href="https://annaavona.finalreport.github.io/Final-report/">Final report</a>
 </div>
 
 
